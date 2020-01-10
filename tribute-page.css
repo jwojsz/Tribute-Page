@@ -1,19 +1,26 @@
 body {
   background-color: #a6a6a6;
   font-family: Arial;
-  margin-left: 50px;
-  margin-right: 50px;
+  margin-left: 20%;
+  margin-right: 20%;
 }
-h1, h2 {
+h1, h2, h3 {
   text-align: center;
-  margin-bottom: 30px;
+}
+h1 {
+  margin-bottom: 7%;
+}
+h2 {
+  margin-bottom: 4%;
+}
+h3 {
+  font-weight: 900;
 }
 p {
   font-size: 14px;
-  margin-bottom: 40px;
-}
-#main {
-  text-align: center;
+  margin-bottom: 6%;
+  text-align: justify;
+  line-height: 1.5;
 }
 #image {
   width: 100%;
@@ -23,7 +30,11 @@ p {
   margin-right: auto;
   display: block;
 }
-#caption {
+#img-caption, #caption {
   text-align: center;
-  margin-bottom: 40px;
+}
+#main {
+  padding: 30px;
+  margin-bottom: 100px;
+  background-color: #D9F7FA;
 }
