@@ -1,3 +1,1 @@
-# Tribute-Page
-This is a simple HTML & CSS training challenge from freecodecamp.com
-The objectives for creating this page can be found here: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
+This is a simple Product Landing Page, written in HTML & CSS. It's a training challenge from freecodecamp.com The objectives for creating this page can be found here: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
